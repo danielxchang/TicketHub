@@ -4,6 +4,6 @@
 
 This application was designed with a microservices architecture and built with TypeScript.
 
-## Custom Common NPM Module
+## Notes
 
-Published commonly used code into a NPM module ([GitHub Repo](https://github.com/dcphantom/tickethub-common)).
+Published commonly used code into a NPM module ([GitHub Repo](https://github.com/dcphantom/tickethub-common)) and reused across various services.
