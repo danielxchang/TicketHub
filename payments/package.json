@@ -10,6 +10,9 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node",
+    "setupFiles": [
+      "<rootDir>/jest/setEnvVars.js"
+    ],
     "setupFilesAfterEnv": [
       "./src/test/setup.ts"
     ]
@@ -31,6 +34,7 @@
     "mongoose": "^6.4.0",
     "mongoose-update-if-current": "^1.4.0",
     "node-nats-streaming": "^0.3.2",
+    "stripe": "^9.13.0",
     "ts-node-dev": "^2.0.0",
     "typescript": "^4.7.4"
   },
