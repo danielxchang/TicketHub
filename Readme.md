@@ -1,6 +1,6 @@
 # TicketHub
 
-TicketHub is a full-stack multi-service ticketing application designed with a **microservices** architecture.
+[TicketHub](http://www.tickethub.lol) is a full-stack multi-service ticketing application designed with a **microservices** architecture.
 
 ## Features
 
