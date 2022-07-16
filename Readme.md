@@ -13,7 +13,7 @@
 - Deploys and runs on the cloud in **Docker** containers executed in a **Kubernetes** cluster deployed on **DigitalOcean**.
 - Implements comprehensive tests using **Jest** to ensure each microservice works as designed.
 
-## Painpoints and Solutions
+## Challenges
 
 | Painpoints                                  | Solutions                                                                                                                                                                                                             |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
